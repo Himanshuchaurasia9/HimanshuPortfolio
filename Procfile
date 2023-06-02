@@ -1,0 +1,1 @@
+web : gunicorn Himanshu.wsgi --log-file -
